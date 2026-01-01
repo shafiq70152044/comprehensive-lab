@@ -1,2 +1,3 @@
 Hello Git
 Testing stash
+Testing stash command
