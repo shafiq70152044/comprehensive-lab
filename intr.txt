@@ -1,0 +1,7 @@
+name = "Shafiq ur Rehman"
+university = "UOL (University of Lahore)"
+interests = "IT and Embedded Systems"
+
+print(f"Name: {name}")
+print(f"Student at: {university}")
+print(f"Interested in: {interests}")
